@@ -4,6 +4,14 @@ A data analysis and time-series forecasting project using Python to predict reta
 ---
 🛍️ Retail Sales Forecasting Project
 
+
+---
+## 🌐 Live Project
+
+[Click here to view project](https://anju3436.github.io/Retail-Sales-Forecasting-using-Time-Series-Analysis/)
+
+---
+
 📌 Overview
 
 This project focuses on analyzing historical retail sales data and predicting future sales using time-series forecasting techniques. It helps businesses make better decisions related to inventory management, demand planning, and revenue optimization.
